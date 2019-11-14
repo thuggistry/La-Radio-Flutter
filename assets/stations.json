@@ -1,0 +1,154 @@
+[
+    {
+        "id": 0,
+        "name": "La Bakana",
+        "url": "http://radio.domint.net:8238/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/La%20Bakana%20ST.jpg?alt=media&token=9c2c5c8a-f401-409e-97ac-8efee9e06b24",
+        "frequency": "105.9",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 1,
+        "name": "Monumental",
+        "url": "http://stm2.grupointernet.com:8103/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Monumental.jpg?alt=media&token=b4cce344-ba16-4748-b377-aecad24e409b",
+        "frequency": "100.3",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 2,
+        "name": "Disco 88.9",
+        "url": "http://radio2.rgradio.net:9020/disco89.mp3",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Disco%2088.png?alt=media&token=ed04d95c-a880-4a1c-b76a-710727a049bb",
+        "frequency": "89",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 3,
+        "name": "Turbo",
+        "url": "http://streaming.turbo98.com:7020/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Turbo.png?alt=media&token=71afdd4c-8b5a-44c9-92d4-9946b77e63ce",
+        "frequency": "98.3",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 4,
+        "name": "Criolla",
+        "url": "http://rgradio.net:8060/criolla106.mp3",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Criolla.png?alt=media&token=62838621-7dad-4c4a-bb67-a749a1084469",
+        "frequency": "106.1",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 5,
+        "name": "Poder",
+        "url": "http://50.63.8.141:9000/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Poder.png?alt=media&token=bd8b3298-935f-4885-a23c-26e5ed759da2",
+        "frequency": "98.7",
+        "ciudad": "Santiago"
+    },
+    {
+        "id": 6,
+        "name": "La Bakana",
+        "url": "http://radio.domint.net:8124/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/La%20Bacana%20SD.png?alt=media&token=5f83b758-d30f-475d-b664-731b9dc2bc28",
+        "frequency": "105.7",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 7,
+        "name": "Disco",
+        "url": "http://radio2.domint.net:8048/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Disco%20106.png?alt=media&token=1897d410-9244-4360-8d1e-b7104eb1b30d",
+        "frequency": "106",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 8,
+        "name": "Z 101",
+        "url": "http://14943.live.streamtheworld.com/Z101FM.mp3",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Zol.jpg?alt=media&token=497f2b89-3551-45fb-9e61-5f0373aee85c",
+        "frequency": "101",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 9,
+        "name": "Caliente",
+        "url": "http://radio7a.domint.net:8064/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Caliente.png?alt=media&token=8240b193-97c2-4841-90ac-4396f44b00cb",
+        "frequency": "104.1",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 10,
+        "name": "Z Digital",
+        "url": "http://radio2.domint.net:8240/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Z%20Digital.jpg?alt=media&token=3425d64c-ec71-469d-af03-51bdfefe101c",
+        "frequency": "106.5",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 11,
+        "name": "Escandalo",
+        "url": "http://radio.domint.net:8062/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/Escandalo.jpg?alt=media&token=863b84fc-d225-45f3-a117-9f1c8e93a908",
+        "frequency": "107.3",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 12,
+        "name": "Ritmo",
+        "url": "http://streaming.ritmo96.com:7100/;/stream/1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/ritmo.png?alt=media&token=19ce63f2-ef60-4b4d-af4c-8a51db191603",
+        "frequency": "96.5",
+        "ciudad": "Santo Domingo"
+    },
+    {
+        "id": 13,
+        "name": "Z",
+        "url": "https://prod-65-19-131-152.wostreaming.net/sbsystems-wzntfmaac-imc1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/z%2093.jpg?alt=media&token=e972aca0-d275-4c67-8315-493546ec04ba",
+        "frequency": "93",
+        "ciudad": "Puerto Rico"
+    },
+    {
+        "id": 14,
+        "name": "Mega",
+        "url": "http://65.19.131.178/sbsystems-wmegfmaac-ib-64",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/mega%20106.9.jpg?alt=media&token=3f03ea71-4ad5-4030-bf07-11e2add4f93e",
+        "frequency": "106.9",
+        "ciudad": "Puerto Rico"
+    },
+    {
+        "id": 15,
+        "name": "La Nueva 94",
+        "url": "http://65.19.131.179/sbsystems-wodafmaac-ib-64",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/la%20nueva%2094.png?alt=media&token=eeebc9fb-b761-494d-bd11-a7ed715712a8",
+        "frequency": "94",
+        "ciudad": "Puerto Rico"
+    },
+    {
+        "id": 16,
+        "name": "KQ 105",
+        "url": "http://3.84.85.112/univision-wkaqfmaac-ibc1",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/kq.jpg?alt=media&token=119fe4d1-2dc3-4bfa-a545-7b310648fcc9",
+        "frequency": "105",
+        "ciudad": "Puerto Rico"
+    },
+    {
+        "id": 17,
+        "name": "SalSoul",
+        "url": "http://68.235.35.243:8001/stream/1/",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/la-radio-rd.appspot.com/o/salsoul.jpg?alt=media&token=424bad20-dba5-44c5-ba65-68e0686e431a",
+        "frequency": "106.9",
+        "ciudad": "Puerto Rico"
+    },
+    {
+        "id": 18,
+        "name": "KQ",
+        "url": "http://radio.yaservers.com:9990/;/stream/1",
+        "logoUrl": "https://radiosdominicanas.com/wp-content/uploads/2014/05/KQ-94.5-FM.jpg",
+        "frequency": "94.5",
+        "ciudad": "Santo Domingo"
+    }
+]
